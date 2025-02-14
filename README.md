@@ -126,7 +126,7 @@ Then, access `http://127.0.0.1:8000/docs` for an interactive Swagger UI.
 ## Author
 
 **Thiago Cunha**\
-🔗 GitHub: [thiagocborghi](https://github.com/thiagocborghi)
+GitHub: [thiagocborghi](https://github.com/thiagocborghi)
 
 If you have any questions or suggestions, feel free to **open an issue** or contribute to the project!
 

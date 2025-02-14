@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+evaluate
+fastapi
+uvicorn
+pydantic
+numpy
+regex
